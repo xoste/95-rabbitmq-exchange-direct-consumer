@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "rabbitmq.config.exchange",
+      "type": "java.lang.String",
+      "description": "Description for rabbitmq.config.exchange."
+  }
+] }
